@@ -1,0 +1,347 @@
+﻿year,month,ym_str,town,project,plh,loccate,waitime,nrooms,nunits,naplcnts,avgrate,rate_senior,rate_1st,rate_single,rate_2nd,sellprice_low,sellprice_high,est_resaleprice_low,est_resaleprice_high
+2019,2,2019-02,Jurong West,Boon Lay Glade / Jurong West Jewel,No,Non-mature,41,2,500,974,1.9 ,1.4 ,0.3 ,4.5 ,0.4 ,95000,160000 ,,
+2019,2,2019-02,Jurong West,Boon Lay Glade / Jurong West Jewel,No,Non-mature,41,3,166,389,2.3 ,,1.4 ,,4.6 ,185000,243000 ,319888,325000
+2019,2,2019-02,Jurong West,Boon Lay Glade / Jurong West Jewel,No,Non-mature,41,4,431,1987,4.6 ,,4.2 ,,7.0 ,257000,364000 ,351000,458000
+2019,2,2019-02,Jurong West,Boon Lay Glade / Jurong West Jewel,No,Non-mature,41,5,277,1894,6.8 ,,5.3 ,,15.6 ,338000,457000 ,450000,550888
+2019,2,2019-02,Sengkang,Fernvale Vines,No,Non-mature,46,2,437,1039,2.4 ,1.8 ,0.4 ,5.1 ,0.4 ,102000,151000 ,,
+2019,2,2019-02,Sengkang,Fernvale Vines,No,Non-mature,46,3,92,304,3.3 ,,2.0 ,,6.5 ,191000,242000 ,,
+2019,2,2019-02,Sengkang,Fernvale Vines,No,Non-mature,46,4,216,1013,4.7 ,,4.2 ,,7.6 ,283000,344000 ,375000,495000
+2019,2,2019-02,Sengkang,Fernvale Vines,No,Non-mature,46,5,188,791,4.2 ,,3.3 ,,9.3 ,365000,433000 ,480000,600000
+2019,2,2019-02,Kallang / Whampoa,Kallang Breeze / Towner Crest,No,Mature,48,3,192,715,3.7 ,,2.5 ,,28.0 ,374000,472000 ,,
+2019,2,2019-02,Kallang / Whampoa,Kallang Breeze / Towner Crest,No,Mature,48,4,663,6976,10.5 ,,8.8 ,,43.0 ,523000,674000 ,575000,717500
+2019,5,2019-05,Woodlands,Champions Green,No,Non-mature,54,2,342,470,1.4 ,1.4 ,0.3 ,2.4 ,0.4 ,86000,128000 ,,
+2019,5,2019-05,Woodlands,Champions Green,No,Non-mature,54,3,88,239,2.7 ,,1.6 ,,5.4 ,165000,194000 ,280000,318000
+2019,5,2019-05,Woodlands,Champions Green,No,Non-mature,54,4,157,1033,6.6 ,,6.3 ,,8.2 ,244000,295000 ,360000,400888
+2019,5,2019-05,Woodlands,Champions Green,No,Non-mature,54,5,135,910,6.7 ,,6.2 ,,10.1 ,336000,383000 ,470000,495000
+2019,5,2019-05,Tengah,Plantation Acres / Garden Vale @ Tengah,No,Non-mature,47,2,1007,561,0.6 ,0.4 ,0.0 ,0.9 ,0.0 ,106000,154000 ,,
+2019,5,2019-05,Tengah,Plantation Acres / Garden Vale @ Tengah,No,Non-mature,47,3,195,267,1.4 ,,0.8 ,,2.6 ,192000,246000 ,,
+2019,5,2019-05,Tengah,Plantation Acres / Garden Vale @ Tengah,No,Non-mature,47,4,507,1700,3.4 ,,3.2 ,,4.2 ,309000,357000 ,340000,448000
+2019,5,2019-05,Tengah,Plantation Acres / Garden Vale @ Tengah,No,Non-mature,47,5,471,1501,3.2 ,,2.8 ,,5.6 ,415000,415000 ,455000,570000
+2019,5,2019-05,Kallang / Whampoa,Kempas Residences,No,Mature,63,2,150,428,2.9 ,2.9 ,,,,117000,143000 ,,
+2019,5,2019-05,Kallang / Whampoa,Kempas Residences,No,Mature,63,3,115,624,5.4 ,,3.3 ,,51.4 ,387000,469000 ,,
+2019,5,2019-05,Kallang / Whampoa,Kempas Residences,No,Mature,63,4,318,4959,15.6 ,,12.5 ,,78.3 ,562000,674000 ,680000,717500
+2019,9,2019-09,Punggol,Punggol Point Cove / Punggol Point Crown,No,Non-mature,51,2,1260,1618,1.3 ,1.0 ,0.2 ,2.7 ,0.3 ,109000,173000 ,230000,255000
+2019,9,2019-09,Punggol,Punggol Point Cove / Punggol Point Crown,No,Non-mature,51,3,189,477,2.5 ,,1.4 ,,5.3 ,205000,268000 ,335000,360000
+2019,9,2019-09,Punggol,Punggol Point Cove / Punggol Point Crown,No,Non-mature,51,4,872,1915,2.2 ,,1.8 ,,4.5 ,287000,398000 ,440000,480000
+2019,9,2019-09,Punggol,Punggol Point Cove / Punggol Point Crown,No,Non-mature,51,5,403,1734,4.3 ,,2.7 ,,13.6 ,423000,551000 ,560000,688000
+2019,9,2019-09,Tampines,Tampines GreenGlen,No,Mature,44,4,330,766,2.3 ,,1.8 ,,12.2 ,312000,380000 ,400000,465000
+2019,9,2019-09,Tampines,Tampines GreenGlen,No,Mature,44,5,319,669,2.1 ,,1.6 ,,12.3 ,418000,504000 ,470000,575000
+2019,11,2019-11,Tengah,Plantation Village / Plantation Grange / Garden Vines @ Tengah,No,Non-mature,39,2,1190,745,0.6 ,0.6 ,0.1 ,1.0 ,0.1 ,110000,167000 ,,
+2019,11,2019-11,Tengah,Plantation Village / Plantation Grange / Garden Vines @ Tengah,No,Non-mature,39,3,293,314,1.1 ,,0.7 ,,1.9 ,208000,256000 ,,
+2019,11,2019-11,Tengah,Plantation Village / Plantation Grange / Garden Vines @ Tengah,No,Non-mature,39,4,1091,1937,1.8 ,,1.5 ,,5.5 ,302000,381000 ,365000,455888
+2019,11,2019-11,Tengah,Plantation Village / Plantation Grange / Garden Vines @ Tengah,No,Non-mature,39,5,886,1801,2.0 ,,1.6 ,,8.0 ,409000,510000 ,515000,560000
+2019,11,2019-11,Tampines,Tampines GreenSpring,No,Mature,39,2,156,603,3.9 ,5.6 ,0.3 ,,13.5 ,145000,216000 ,,
+2019,11,2019-11,Tampines,Tampines GreenSpring,No,Mature,39,3,90,673,7.5 ,,3.0 ,,104.5 ,281000,328000 ,410000,443000
+2019,11,2019-11,Tampines,Tampines GreenSpring,No,Mature,39,4,218,3257,14.9 ,,11.3 ,,90.2 ,394000,480000 ,530000,615000
+2019,11,2019-11,Tampines,Tampines GreenSpring,No,Mature,39,5,193,3890,20.2 ,,11.7 ,,193.2 ,508000,606000 ,645000,728000
+2019,11,2019-11,Ang Mo Kio,Yio Chu Kang Beacon,No,Mature,48,2,132,305,2.3 ,2.8 ,0.3 ,,15.0 ,170000,253000 ,,
+2019,11,2019-11,Ang Mo Kio,Yio Chu Kang Beacon,No,Mature,48,3,87,334,3.8 ,,1.8 ,,47.0 ,332000,391000 ,,
+2019,11,2019-11,Ang Mo Kio,Yio Chu Kang Beacon,No,Mature,48,4,235,3806,16.2 ,,13.2 ,,77.7 ,451000,563000 ,535000,655000
+2020,2,2020-02,Sembawang,Canberra Vista,No,Non-mature,55,2,692,2232,3.2 ,3.5 ,0.4 ,5.5 ,0.7 ,89000,141000 ,,
+2020,2,2020-02,Sembawang,Canberra Vista,No,Non-mature,55,3,124,847,6.8 ,,3.7 ,,14.1 ,177000,210000 ,,
+2020,2,2020-02,Sembawang,Canberra Vista,No,Non-mature,55,4,385,3048,7.9 ,,6.8 ,,14.4 ,272000,320000 ,396000,425000
+2020,2,2020-02,Sembawang,Canberra Vista,No,Non-mature,55,5,266,3738,14.1 ,,10.6 ,,33.9 ,350000,406000 ,390000,480888
+2020,2,2020-02,Toa Payoh,Kim Keat Ripples / Toa Payoh Ridge,No,Mature,57,2,315,1321,4.2 ,4.2 ,,,,90000,184000 ,,
+2020,2,2020-02,Toa Payoh,Kim Keat Ripples / Toa Payoh Ridge,No,Mature,57,3,102,935,9.2 ,,4.3 ,,103.8 ,351000,446000 ,,
+2020,2,2020-02,Toa Payoh,Kim Keat Ripples / Toa Payoh Ridge,No,Mature,57,4,1211,11684,9.6 ,,7.6 ,,48.7 ,395000,666000 ,555000,778000
+2020,8,2020-08,Choa Chu Kang,Keat Hong Verge,No,Non-mature,30,2,163,552,3.4 ,3.0 ,1.1 ,6.5 ,2.2 ,99000,143000 ,,
+2020,8,2020-08,Choa Chu Kang,Keat Hong Verge,No,Non-mature,30,3,118,263,2.2 ,,1.5 ,,4.1 ,164000,214000 ,308000,325000
+2020,8,2020-08,Choa Chu Kang,Keat Hong Verge,No,Non-mature,30,4,290,683,2.4 ,,2.1 ,,8.4 ,253000,326000 ,355000,450000
+2020,8,2020-08,Tengah,Parc Residences @ Tengah,No,Non-mature,60,2,480,946,2.0 ,1.8 ,0.6 ,3.8 ,0.3 ,108000,157000 ,,
+2020,8,2020-08,Tengah,Parc Residences @ Tengah,No,Non-mature,60,3,99,363,3.7 ,,2.5 ,,6.5 ,198000,248000 ,,
+2020,8,2020-08,Tengah,Parc Residences @ Tengah,No,Non-mature,60,4,281,1436,5.1 ,,4.3 ,,9.6 ,303000,364000 ,370000,455000
+2020,8,2020-08,Tengah,Parc Residences @ Tengah,No,Non-mature,60,5,184,1284,7.0 ,,5.3 ,,16.5 ,418000,489000 ,490000,575000
+2020,8,2020-08,Woodlands,Champions Bliss / Urbanville @ Woodlands,No,Non-mature,59,2,846,2198,2.6 ,2.0 ,0.6 ,5.5 ,0.6 ,90000,162000 ,,
+2020,8,2020-08,Woodlands,Champions Bliss / Urbanville @ Woodlands,No,Non-mature,59,3,144,896,6.2 ,,3.6 ,,12.5 ,184000,228000 ,290000,320000
+2020,8,2020-08,Woodlands,Champions Bliss / Urbanville @ Woodlands,No,Non-mature,59,4,706,4125,5.8 ,,4.9 ,,11.2 ,276000,381000 ,375000,450000
+2020,8,2020-08,Woodlands,Champions Bliss / Urbanville @ Woodlands,No,Non-mature,59,5,438,4297,9.8 ,,6.8 ,,26.8 ,405000,516000 ,473000,530000
+2020,8,2020-08,Ang Mo Kio,Kebun Baru Edge,No,Mature,54,4,240,2568,10.7 ,,8.6 ,,50.5 ,423000,550000 ,578000,721000
+2020,8,2020-08,Ang Mo Kio,Kebun Baru Edge,No,Mature,54,5,140,3006,21.5 ,,12.6 ,,189.3 ,571000,725000 ,890000,970888
+2020,8,2020-08,Bishan,Bishan Towers,No,Mature,57,2,120,482,4.0 ,4.5 ,0.6 ,20.0 ,,176000,277000 ,,
+2020,8,2020-08,Bishan,Bishan Towers,No,Mature,57,3,80,319,4.0 ,,1.7 ,,48.3 ,302000,408000 ,,
+2020,8,2020-08,Bishan,Bishan Towers,No,Mature,57,4,272,1689,6.2 ,,4.3 ,,43.5 ,484000,617000 ,580000,615000
+2020,8,2020-08,Geylang,Dakota One,No,Mature,57,3,87,787,9.0 ,,5.2 ,,88.0 ,355000,421000 ,,
+2020,8,2020-08,Geylang,Dakota One,No,Mature,57,4,334,6394,19.1 ,,14.8 ,,106.0 ,523000,617000 ,650000,675000
+2020,8,2020-08,Pasir Ris,Costa Grove,No,Mature,63,2,212,690,3.3 ,6.2 ,0.2 ,10.2 ,,137000,198000 ,,
+2020,8,2020-08,Pasir Ris,Costa Grove,No,Mature,63,3,160,436,2.7 ,,0.9 ,,37.1 ,245000,317000 ,368000,404000
+2020,8,2020-08,Pasir Ris,Costa Grove,No,Mature,63,4,373,1771,4.7 ,,3.6 ,,26.9 ,374000,460000 ,477000,580000
+2020,8,2020-08,Pasir Ris,Costa Grove,No,Mature,63,5,325,2369,7.3 ,,4.0 ,,71.5 ,493000,581000 ,590000,690000
+2020,8,2020-08,Tampines,Tampines Greencrest / Tampines Greenlade / Tampines Greenopal,No,Mature,44,3,182,486,2.7 ,,1.3 ,,28.1 ,205000,265000 ,345000,408000
+2020,8,2020-08,Tampines,Tampines Greencrest / Tampines Greenlade / Tampines Greenopal,No,Mature,44,4,871,1864,2.1 ,,1.7 ,,10.4 ,311000,390000 ,385000,575000
+2020,8,2020-08,Tampines,Tampines Greencrest / Tampines Greenlade / Tampines Greenopal,No,Mature,44,5,717,1402,2.0 ,,1.3 ,,14.1 ,423000,517000 ,465000,650000
+2020,11,2020-11,Sembawang,Sun Sails,No,Non-mature,55,2,220,873,4.0 ,2.2 ,0.8 ,10.3 ,0.4 ,92000,122000 ,,
+2020,11,2020-11,Sembawang,Sun Sails,No,Non-mature,55,3,84,359,4.3 ,,3.0 ,,7.3 ,163000,189000 ,,
+2020,11,2020-11,Sembawang,Sun Sails,No,Non-mature,55,4,238,964,4.1 ,,3.7 ,,6.3 ,260000,302000 ,375000,388000
+2020,11,2020-11,Sembawang,Sun Sails,No,Non-mature,55,5,184,1060,5.8 ,,4.6 ,,12.3 ,336000,388000 ,435000,485000
+2020,11,2020-11,Tengah,Garden Court @ Tengah / Garden Terrace @ Tengah,No,Non-mature,40,2,464,640,1.4 ,0.7 ,0.1 ,3.0 ,0.1 ,108000,150000 ,,
+2020,11,2020-11,Tengah,Garden Court @ Tengah / Garden Terrace @ Tengah,No,Non-mature,40,3,218,277,1.3 ,,0.8 ,,2.5 ,194000,233000 ,,
+2020,11,2020-11,Tengah,Garden Court @ Tengah / Garden Terrace @ Tengah,No,Non-mature,40,4,570,1495,2.6 ,,2.1 ,,13.4 ,288000,366000 ,380000,455000
+2020,11,2020-11,Tengah,Garden Court @ Tengah / Garden Terrace @ Tengah,No,Non-mature,40,5,327,1343,4.1 ,,3.1 ,,23.8 ,394000,487000 ,515000,580000
+2020,11,2020-11,Toa Payoh,Bartley Beacon / ParkView @ Bidadari,No,Mature,54,3,184,401,2.2 ,,1.2 ,,21.9 ,324000,397000 ,358000,460000
+2020,11,2020-11,Toa Payoh,Bartley Beacon / ParkView @ Bidadari,No,Mature,54,4,910,3598,4.0 ,,3.2 ,,18.1 ,466000,598000 ,510000,610000
+2020,11,2020-11,Toa Payoh,Bartley Beacon / ParkView @ Bidadari,No,Mature,54,5,144,2170,15.1 ,,7.1 ,,171.4 ,627000,726000 ,695000,862000
+2020,11,2020-11,Bishan,Bishan Ridges,No,Mature,67,2,156,698,4.5 ,4.5 ,,,,121000,179000 ,,
+2020,11,2020-11,Bishan,Bishan Ridges,No,Mature,67,3,124,822,6.6 ,,2.9 ,,80.5 ,374000,470000 ,,
+2020,11,2020-11,Bishan,Bishan Ridges,No,Mature,67,4,1222,8635,7.1 ,,5.1 ,,45.3 ,528000,679000 ,445000,715000
+2020,11,2020-11,Tampines,Tampines GreenEmerald,No,Mature,52,2,146,353,2.4 ,3.2 ,0.2 ,,13.5 ,130000,192000 ,,
+2020,11,2020-11,Tampines,Tampines GreenEmerald,No,Mature,52,4,360,1441,4.0 ,,3.1 ,,20.7 ,334000,410000 ,515000,588000
+2020,11,2020-11,Tampines,Tampines GreenEmerald,No,Mature,52,5,244,1126,4.6 ,,3.0 ,,36.3 ,460000,538000 ,560000,650000
+2021,2,2021-02,Bukit Batok,West Hill @ Bukit Batok,No,Non-mature,63,2,163,603,3.7 ,2.5 ,0.8 ,10.2 ,1.5 ,101000,144000 ,,
+2021,2,2021-02,Bukit Batok,West Hill @ Bukit Batok,No,Non-mature,63,3,81,212,2.6 ,,1.6 ,,5.1 ,175000,221000 ,,
+2021,2,2021-02,Bukit Batok,West Hill @ Bukit Batok,No,Non-mature,63,4,387,615,1.6 ,,1.3 ,,3.4 ,260000,334000 ,368000,450000
+2021,2,2021-02,Bukit Batok,West Hill @ Bukit Batok,No,Non-mature,63,5,331,666,2.0 ,,1.5 ,,5.0 ,384000,460000 ,515000,570000
+2021,2,2021-02,Tengah,Parc Woods @ Tengah,No,Non-mature,48,2,297,624,2.1 ,1.5 ,0.4 ,4.7 ,0.2 ,110000,167000 ,,
+2021,2,2021-02,Tengah,Parc Woods @ Tengah,No,Non-mature,48,3,83,198,2.4 ,,1.2 ,,5.3 ,209000,239000 ,,
+2021,2,2021-02,Tengah,Parc Woods @ Tengah,No,Non-mature,48,4,387,1294,3.3 ,,3.0 ,,5.4 ,298000,359000 ,368000,450000
+2021,2,2021-02,Toa Payoh,Bartley GreenRise / ParkEdge @ Bidadari / Alkaff Breeze,No,Mature,46,3,96,462,4.8 ,,2.0 ,,66.0 ,312000,362000 ,352000,408000
+2021,2,2021-02,Toa Payoh,Bartley GreenRise / ParkEdge @ Bidadari / Alkaff Breeze,No,Mature,46,4,797,4667,5.9 ,,5.1 ,,21.4 ,464000,580000 ,538888,588000
+2021,2,2021-02,Toa Payoh,Bartley GreenRise / ParkEdge @ Bidadari / Alkaff Breeze,No,Mature,46,5,323,3193,9.9 ,,6.0 ,,84.1 ,611000,728000 ,695000,765000
+2021,2,2021-02,Kallang / Whampoa,McNair Heights,No,Mature,63,2,136,569,4.2 ,4.2 ,,,,117000,182000 ,,
+2021,2,2021-02,Kallang / Whampoa,McNair Heights,No,Mature,63,3,104,413,4.0 ,,1.8 ,,46.0 ,359000,453000 ,,
+2021,2,2021-02,Kallang / Whampoa,McNair Heights,No,Mature,63,4,386,2869,7.4 ,,5.4 ,,46.7 ,532000,672000 ,710000,733888
+2021,5,2021-05,Tengah,Garden Bloom @ Tengah,No,Non-mature,46,2,266,462,1.7 ,1.0 ,0.2 ,4.2 ,0.3 ,113000,167000 ,,
+2021,5,2021-05,Tengah,Garden Bloom @ Tengah,No,Non-mature,46,4,265,1023,3.9 ,,3.2 ,,7.9 ,299000,359000 ,365000,460000
+2021,5,2021-05,Tengah,Garden Bloom @ Tengah,No,Non-mature,46,5,251,1168,4.7 ,,3.5 ,,11.2 ,404000,495000 ,505000,608000
+2021,5,2021-05,Woodlands,Woodgrove Ascent,No,Non-mature,46,2,686,944,1.4 ,0.9 ,0.2 ,3.0 ,0.2 ,98000,148000 ,,
+2021,5,2021-05,Woodlands,Woodgrove Ascent,No,Non-mature,46,3,84,451,5.4 ,,3.6 ,,9.6 ,185000,219000 ,330000,345000
+2021,5,2021-05,Woodlands,Woodgrove Ascent,No,Non-mature,46,4,411,1794,4.4 ,,3.8 ,,7.7 ,275000,373000 ,445000,470000
+2021,5,2021-05,Woodlands,Woodgrove Ascent,No,Non-mature,46,5,359,1990,5.5 ,,4.1 ,,13.7 ,372000,491000 ,476888,550000
+2021,5,2021-05,Bukit Merah,Telok Blangah Beacon,No,Mature,64,3,105,604,5.8 ,,3.0 ,,60.4 ,419000,504000 ,558000,650000
+2021,5,2021-05,Bukit Merah,Telok Blangah Beacon,No,Mature,64,4,70,3474,49.6 ,,30.6 ,,475.0 ,602000,710000 ,762000,860000
+2021,5,2021-05,Geylang,MacPherson Weave,No,Mature,52,2,216,453,2.1 ,4.2 ,0.1 ,4.4 ,,180000,269000 ,,
+2021,5,2021-05,Geylang,MacPherson Weave,No,Mature,52,3,156,569,3.6 ,,1.6 ,,47.4 ,343000,405000 ,425000,565000
+2021,5,2021-05,Geylang,MacPherson Weave,No,Mature,52,4,1010,5595,5.5 ,,4.2 ,,31.3 ,489000,626000 ,635000,800000
+2021,8,2021-08,Hougang,Hougang Citrine / Kovan Wellspring,No,Non-mature,46,2,596,4882,8.2 ,7.1 ,0.8 ,1.0 ,17.0 ,108000,234000 ,,
+2021,8,2021-08,Hougang,Hougang Citrine / Kovan Wellspring,No,Non-mature,46,3,178,1986,11.2 ,,5.3 ,,24.9 ,199000,340000 ,340000,370000
+2021,8,2021-08,Hougang,Hougang Citrine / Kovan Wellspring,No,Non-mature,46,4,459,11420,24.9 ,,18.5 ,,61.4 ,324000,507000 ,460000,590000
+2021,8,2021-08,Hougang,Hougang Citrine / Kovan Wellspring,No,Non-mature,37,5,102,1085,10.6 ,,7.2 ,,30.5 ,392000,482000 ,525000,560000
+2021,8,2021-08,Jurong East,Toh Guan Grove,No,Non-mature,49,2,244,1214,5.0 ,4.3 ,0.5 ,0.9 ,10.1 ,121000,189000 ,,
+2021,8,2021-08,Jurong East,Toh Guan Grove,No,Non-mature,49,3,85,520,6.1 ,,3.8 ,,11.6 ,237000,281000 ,,
+2021,8,2021-08,Jurong East,Toh Guan Grove,No,Non-mature,49,4,240,3628,15.1 ,,12.8 ,,30.1 ,347000,436000 ,475000,530000
+2021,8,2021-08,Kallang / Whampoa,Towner Residences,No,Mature,58,3,90,265,2.9 ,,1.4 ,,35.5 ,336000,440000 ,,
+2021,8,2021-08,Kallang / Whampoa,Towner Residences,No,Mature,58,4,226,1928,8.5 ,,6.2 ,,53.7 ,500000,656000 ,550000,733000
+2021,8,2021-08,Queenstown,Queen's Arc,No,Mature,67,3,76,354,4.7 ,,2.3 ,,61.0 ,382000,464000 ,580000,608000
+2021,8,2021-08,Queenstown,Queen's Arc,No,Mature,67,4,534,4099,7.7 ,,5.2 ,,56.7 ,540000,670000 ,790000,875000
+2021,8,2021-08,Tampines,Tampines GreenQuartz / Tampines GreenJade,No,Mature,52,2,202,694,3.4 ,6.2 ,0.2 ,9.6 ,,142000,196000 ,,
+2021,8,2021-08,Tampines,Tampines GreenQuartz / Tampines GreenJade,No,Mature,52,3,87,627,7.2 ,,2.7 ,,100.3 ,244000,291000 ,,
+2021,8,2021-08,Tampines,Tampines GreenQuartz / Tampines GreenJade,No,Mature,48,4,989,3443,3.5 ,,2.7 ,,19.3 ,342000,445000 ,505000,574000
+2021,8,2021-08,Tampines,Tampines GreenQuartz / Tampines GreenJade,No,Mature,48,5,881,4255,4.8 ,,3.0 ,,40.1 ,475000,597000 ,540000,650000
+2021,11,2021-11,Choa Chu Kang,Heart of Yew Tee,No,Non-mature,52,2,68,727,10.7 ,10.7 ,,,,72000,98000 ,,
+2021,11,2021-11,Hougang,Tanjong Tree Residences @ Hougang / Hougang Olive,No,Non-mature,40,4,378,1643,4.3 ,,3.5 ,,13.2 ,308000,389000 ,460000,560000
+2021,11,2021-11,Hougang,Tanjong Tree Residences @ Hougang / Hougang Olive,No,Non-mature,40,5,312,1852,5.9 ,,4.3 ,,25.5 ,416000,495000 ,525000,560000
+2021,11,2021-11,Jurong West,Nanyang Opal,No,Non-mature,42,3,91,87,1.0 ,,0.7 ,,1.5 ,173000,229000 ,290000,333000
+2021,11,2021-11,Jurong West,Nanyang Opal,No,Non-mature,42,4,130,229,1.8 ,,1.4 ,,3.7 ,264000,321000 ,423000,472000
+2021,11,2021-11,Tengah,Parc Glen @ Tengah / Parc Clover @ Tengah,No,Non-mature,49,2,409,829,2.0 ,1.0 ,0.3 ,5.7 ,0.3 ,119000,190000 ,,
+2021,11,2021-11,Tengah,Parc Glen @ Tengah / Parc Clover @ Tengah,No,Non-mature,49,3,198,366,1.8 ,,1.2 ,,3.4 ,194000,257000 ,,
+2021,11,2021-11,Tengah,Parc Glen @ Tengah / Parc Clover @ Tengah,No,Non-mature,49,4,872,1863,2.1 ,,1.7 ,,10.6 ,312000,390000 ,430000,518000
+2021,11,2021-11,Tengah,Parc Glen @ Tengah / Parc Clover @ Tengah,No,Non-mature,49,5,653,2120,3.2 ,,2.4 ,,20.5 ,428000,619000 ,568000,620000
+2021,11,2021-11,Kallang / Whampoa,Kent Heights,No,Mature,54,2,154,243,1.6 ,2.1 ,0.2 ,10.0 ,,192000,309000 ,,
+2021,11,2021-11,Kallang / Whampoa,Kent Heights,No,Mature,54,4,276,1813,6.6 ,,5.2 ,,33.7 ,511000,660000 ,630000,754000
+2021,11,2021-11,Central Area,River Peaks I & II,Yes,Mature,71,3,280,867,3.1 ,,1.1 ,,40.4 ,409000,474000 ,490000,555000
+2021,11,2021-11,Central Area,River Peaks I & II,Yes,Mature,71,4,680,6976,10.3 ,,5.3 ,,104.7 ,582000,688000 ,630000,770000
+2022,2,2022-02,Tengah,Parc Flora @ Tengah / Plantation Greek,No,Non-mature,40,2,101,844,8.4 ,3.1 ,12.0 ,,,132000,182000 ,,
+2022,2,2022-02,Tengah,Parc Flora @ Tengah / Plantation Greek,No,Non-mature,40,3,85,362,4.3 ,,2.5 ,,8.5 ,231000,273000 ,,
+2022,2,2022-02,Tengah,Parc Flora @ Tengah / Plantation Greek,No,Non-mature,40,4,570,1813,3.2 ,,2.7 ,,5.8 ,309000,403000 ,438000,525000
+2022,2,2022-02,Tengah,Parc Flora @ Tengah / Plantation Greek,No,Non-mature,40,5,517,2406,4.7 ,,3.7 ,,10.1 ,420000,525000 ,570000,610000
+2022,2,2022-02,Yishun,Yishun Boardwalk / Grove Spring @ Yishun,No,Non-mature,26,2,378,2094,5.5 ,3.7 ,0.7 ,14.1 ,1.3 ,95000,149000 ,,
+2022,2,2022-02,Yishun,Yishun Boardwalk / Grove Spring @ Yishun,No,Non-mature,26,3,162,808,5.0 ,,3.5 ,,8.5 ,180000,248000 ,365000,395000
+2022,2,2022-02,Yishun,Yishun Boardwalk / Grove Spring @ Yishun,No,Non-mature,26,4,686,2187,3.2 ,,2.5 ,,16.2 ,270000,374000 ,445000,493888
+2022,2,2022-02,Yishun,Yishun Boardwalk / Grove Spring @ Yishun,No,Non-mature,26,5,613,2018,3.3 ,,2.3 ,,22.3 ,385000,490000 ,548000,645000
+2022,2,2022-02,Kallang / Whampoa,King George's Heights,Yes,Mature,59,3,104,661,6.4 ,,2.8 ,,76.0 ,353000,462000 ,515000,555000
+2022,2,2022-02,Kallang / Whampoa,King George's Heights,Yes,Mature,59,4,294,5140,17.5 ,,10.9 ,,149.3 ,488000,675000 ,630000,770000
+2022,2,2022-02,Geylang,Dakota Crest,No,Mature,63,2,121,743,6.1 ,6.9 ,0.7 ,,38.0 ,205000,315000 ,,
+2022,2,2022-02,Geylang,Dakota Crest,No,Mature,63,3,80,833,10.4 ,,4.8 ,,117.0 ,352000,456000 ,,
+2022,2,2022-02,Geylang,Dakota Crest,No,Mature,63,4,242,6961,28.8 ,,20.5 ,,187.4 ,522000,688000 ,622000,815000
+2022,5,2022-05,Jurong West,Lakeside View,No,Non-mature,46,2,455,1301,2.9 ,2.0 ,0.4 ,6.6 ,0.2 ,107000,180000 ,,
+2022,5,2022-05,Jurong West,Lakeside View,No,Non-mature,46,3,101,446,4.4 ,,2.4 ,,9.3 ,215000,265000 ,350000,413888
+2022,5,2022-05,Jurong West,Lakeside View,No,Non-mature,46,4,246,1827,7.4 ,,5.3 ,,19.6 ,320000,393000 ,435000,535000
+2022,5,2022-05,Jurong West,Lakeside View,No,Non-mature,46,5,214,3294,15.4 ,,9.1 ,,51.2 ,412000,526000 ,570000,620000
+2022,5,2022-05,Yishun,Yishun Beacon,No,Non-mature,39,2,273,1821,6.7 ,5.0 ,0.7 ,14.8 ,1.0 ,123000,184000 ,,
+2022,5,2022-05,Yishun,Yishun Beacon,No,Non-mature,39,4,207,2525,12.2 ,,9.4 ,,28.4 ,328000,418000 ,490000,550000
+2022,5,2022-05,Yishun,Yishun Beacon,No,Non-mature,39,5,166,2491,15.0 ,,9.4 ,,48.1 ,485000,595000 ,570000,710000
+2022,5,2022-05,Toa Payoh,Kim Keat Heights,No,Mature,55,2,120,271,2.3 ,2.6 ,0.4 ,,5.0 ,162000,263000 ,,
+2022,5,2022-05,Toa Payoh,Kim Keat Heights,No,Mature,55,3,100,415,4.2 ,,1.8 ,,49.2 ,289000,373000 ,,
+2022,5,2022-05,Toa Payoh,Kim Keat Heights,No,Mature,55,4,165,1797,10.9 ,,7.4 ,,78.5 ,420000,559000 ,618888,720000
+2022,5,2022-05,Bukit Merah,Bukit Merah Ridge,Yes,Mature,60,3,443,723,1.6 ,,0.6 ,,21.1 ,337000,509000 ,530000,720000
+2022,5,2022-05,Bukit Merah,Bukit Merah Ridge,Yes,Mature,60,4,1226,6560,5.4 ,,3.2 ,,45.9 ,540000,737000 ,860000,1030000
+2022,5,2022-05,Queenstown,Ghim Moh Ascent,Yes,Mature,60,3,196,293,1.5 ,,0.5 ,,21.9 ,369000,481000 ,535000,700000
+2022,5,2022-05,Queenstown,Ghim Moh Ascent,Yes,Mature,60,4,671,2919,4.4 ,,3.0 ,,31.3 ,511000,691000 ,718000,970000
+2022,8,2022-08,Choa Chu Kang,Keat Hong Grange,No,Non-mature,43,2,194,512,2.6 ,2.0 ,0.2 ,4.9 ,0.7 ,102000,160000 ,,
+2022,8,2022-08,Choa Chu Kang,Keat Hong Grange,No,Non-mature,43,3,96,220,2.3 ,,1.2 ,,8.6 ,194000,243000 ,,
+2022,8,2022-08,Choa Chu Kang,Keat Hong Grange,No,Non-mature,43,4,374,733,2.0 ,,1.5 ,,11.5 ,277000,363000 ,462000,540000
+2022,8,2022-08,Choa Chu Kang,Keat Hong Grange,No,Non-mature,43,5,323,919,2.8 ,,2.0 ,,19.9 ,390000,508000 ,600000,640000
+2022,8,2022-08,Jurong East,Jurong East Breeze,No,Non-mature,60,2,223,1126,5.0 ,2.7 ,0.3 ,10.4 ,1.2 ,97000,170000 ,,
+2022,8,2022-08,Jurong East,Jurong East Breeze,No,Non-mature,60,3,87,354,4.1 ,,2.1 ,,15.5 ,194000,245000 ,,
+2022,8,2022-08,Jurong East,Jurong East Breeze,No,Non-mature,60,4,252,1678,6.7 ,,4.7 ,,46.5 ,283000,388000 ,535000,595000
+2022,8,2022-08,Woodlands,Woodlands South Plains,No,Non-mature,45,2,275,1822,6.6 ,4.6 ,0.8 ,11.7 ,1.6 ,98000,154000 ,,
+2022,8,2022-08,Woodlands,Woodlands South Plains,No,Non-mature,45,3,87,709,8.1 ,,4.4 ,,29.4 ,188000,228000 ,374000,420000
+2022,8,2022-08,Woodlands,Woodlands South Plains,No,Non-mature,45,4,268,3131,11.7 ,,9.3 ,,58.8 ,303000,363000 ,458000,490000
+2022,8,2022-08,Ang Mo Kio,Central. Weave @ AMK,No,Mature,60,2,126,1074,8.5 ,9.9 ,1.2 ,,58.0 ,198000,292000 ,,
+2022,8,2022-08,Ang Mo Kio,Central. Weave @ AMK,No,Mature,60,4,398,5033,12.6 ,,8.7 ,,90.8 ,535000,676000 ,690000,918000
+2022,8,2022-08,Ang Mo Kio,Central. Weave @ AMK,No,Mature,60,5,333,6513,17.5 ,,8.2 ,,199.9 ,720000,877000 ,960000,1150000
+2022,8,2022-08,Tampines,Sun Plaza Spring,No,Mature,36,4,150,3347,22.3 ,,17.2 ,,127.4 ,381000,438000 ,580000,635000
+2022,8,2022-08,Tampines,Sun Plaza Spring,No,Mature,36,5,117,3082,26.3 ,,18.5 ,,201.2 ,520000,590000 ,618888,720000
+2022,8,2022-08,Bukit Merah,Alexandra Vale / Havelock Hillside,Yes,Mature,65,3,353,967,2.7 ,,1.0 ,,37.8 ,385000,477000 ,590000,720000
+2022,8,2022-08,Bukit Merah,Alexandra Vale / Havelock Hillside,Yes,Mature,65,4,1298,7916,6.1 ,,3.7 ,,53.0 ,547000,705000 ,750000,1030000
+2022,11,2022-11,Bukit Batok,West Glades @ Bukit Batok,No,Non-mature,53,2,331,559,1.7 ,1.0 ,0.2 ,3.1 ,0.4 ,105000,169000 ,,
+2022,11,2022-11,Bukit Batok,West Glades @ Bukit Batok,No,Non-mature,53,3,84,171,2.0 ,,0.9 ,,9.0 ,206000,269000 ,,
+2022,11,2022-11,Bukit Batok,West Glades @ Bukit Batok,No,Non-mature,53,4,207,511,2.5 ,,1.8 ,,16.5 ,309000,392000 ,460000,585000
+2022,11,2022-11,Bukit Batok,West Glades @ Bukit Batok,No,Non-mature,53,5,168,597,3.6 ,,2.2 ,,29.8 ,405000,522000 ,645000,665000
+2022,11,2022-11,Tengah,Garden Waterfront I / II @ Tengah,No,Non-mature,40,2,578,1072,1.9 ,1.2 ,0.1 ,3.4 ,0.5 ,111000,174000 ,,
+2022,11,2022-11,Tengah,Garden Waterfront I / II @ Tengah,No,Non-mature,40,3,89,326,3.7 ,,1.5 ,,16.2 ,214000,262000 ,,
+2022,11,2022-11,Tengah,Garden Waterfront I / II @ Tengah,No,Non-mature,40,4,740,1933,2.6 ,,1.9 ,,16.2 ,307000,397000 ,460000,585000
+2022,11,2022-11,Tengah,Garden Waterfront I / II @ Tengah,No,Non-mature,40,5,670,2849,4.3 ,,2.6 ,,35.2 ,428000,536000 ,645000,665000
+2022,11,2022-11,Yishun,Miltonia Breeza @ Yishun / Vanda Breeze @ Yishun / Aranda Breeze @ Yishun,No,Non-mature,63,2,1191,1238,1.0 ,0.7 ,0.1 ,2.0 ,0.1 ,84000,148000 ,290000,305000
+2022,11,2022-11,Yishun,Miltonia Breeza @ Yishun / Vanda Breeze @ Yishun / Aranda Breeze @ Yishun,No,Non-mature,63,3,91,383,4.2 ,,2.1 ,,17.0 ,175000,229000 ,390000,415000
+2022,11,2022-11,Yishun,Miltonia Breeza @ Yishun / Vanda Breeze @ Yishun / Aranda Breeze @ Yishun,No,Non-mature,63,4,917,1422,1.6 ,,1.1 ,,10.5 ,248000,336000 ,450000,525000
+2022,11,2022-11,Yishun,Miltonia Breeza @ Yishun / Vanda Breeze @ Yishun / Aranda Breeze @ Yishun,No,Non-mature,63,5,795,1410,1.8 ,,1.0 ,,16.6 ,366000,463000 ,560000,628000
+2022,11,2022-11,Kallang / Whampoa,Kallang Horizon,Yes,Mature,53,3,72,550,7.6 ,,3.1 ,,111.3 ,335000,447000 ,550000,700000
+2022,11,2022-11,Kallang / Whampoa,Kallang Horizon,Yes,Mature,53,4,405,4561,11.3 ,,7.1 ,,92.3 ,509000,690000 ,638000,933000
+2022,11,2022-11,Queenstown,Ghim Moh Natura / Queensway Canopy / Ulu Pandan Banks,Yes,Mature,63,2,42,388,9.2 ,9.0 ,,,,206000,314000 ,,
+2022,11,2022-11,Queenstown,Ghim Moh Natura / Queensway Canopy / Ulu Pandan Banks,Yes,Mature,63,3,587,557,0.9 ,,0.3 ,,13.2 ,362000,504000 ,610000,730000
+2022,11,2022-11,Queenstown,Ghim Moh Natura / Queensway Canopy / Ulu Pandan Banks,Yes,Mature,63,4,2443,5652,2.3 ,,1.4 ,,18.8 ,516000,725000 ,710000,975000
+2023,2,2023-02,Jurong West,Jurong West Crystal,No,Non-mature,47,3,85,242,2.8 ,,1.5 ,,11.1 ,187000,249000 ,348000,363000
+2023,2,2023-02,Jurong West,Jurong West Crystal,No,Non-mature,47,4,186,567,3.0 ,,2.0 ,,24.1 ,228000,372000 ,460000,520000
+2023,2,2023-02,Tengah,Brickland Weave,No,Non-mature,48,2,423,1653,3.9 ,3.1 ,0.3 ,6.4 ,1.2 ,97000,158000 ,,
+2023,2,2023-02,Tengah,Brickland Weave,No,Non-mature,48,3,95,404,4.3 ,,1.9 ,,17.9 ,190000,248000 ,391000,450000
+2023,2,2023-02,Tengah,Brickland Weave,No,Non-mature,48,4,597,1334,2.2 ,,1.5 ,,15.9 ,291000,375000 ,480000,566800
+2023,2,2023-02,Tengah,Brickland Weave,No,Non-mature,48,5,526,1680,3.2 ,,2.0 ,,26.3 ,401000,503000 ,580000,680000
+2023,2,2023-02,Kallang / Whampoa,Farrer Park Fields / Rajah Summit,Yes,Mature,56,2,178,821,4.6 ,7.4 ,0.3 ,,19.3 ,185000,297000 ,,
+2023,2,2023-02,Kallang / Whampoa,Farrer Park Fields / Rajah Summit,Yes,Mature,56,3,184,673,3.7 ,,1.6 ,,43.6 ,326000,443000 ,490000,580000
+2023,2,2023-02,Kallang / Whampoa,Farrer Park Fields / Rajah Summit,Yes,Mature,56,4,1422,6857,4.8 ,,3.4 ,,32.6 ,459000,631000 ,660000,795000
+2023,2,2023-02,Queenstown,Ulu Pandan Glades,Yes,Mature,68,3,160,231,1.4 ,,0.6 ,,18.4 ,372000,498000 ,602000,730000
+2023,2,2023-02,Queenstown,Ulu Pandan Glades,Yes,Mature,68,4,572,2531,4.4 ,,2.3 ,,45.7 ,541000,711000 ,860000,996000
+2023,5,2023-05,Bedok,Bedok South Blossoms,No,Mature,41,2,144,725,5.0 ,6.8 ,0.3 ,,13.0 ,165000,260000 ,,
+2023,5,2023-05,Bedok,Bedok South Blossoms,No,Mature,41,3,120,561,4.7 ,,2.1 ,,53.2 ,320000,396000 ,,
+2023,5,2023-05,Bedok,Bedok South Blossoms,No,Mature,41,4,766,2852,3.7 ,,3.0 ,,17.9 ,448000,587000 ,590000,689888
+2023,5,2023-05,Bedok,Bedok South Blossoms,No,Mature,41,5,610,3222,5.3 ,,3.5 ,,40.1 ,588000,737000 ,710000,788888
+2023,5,2023-05,Kallang / Whampoa,Farrer Park Arena,Yes,Mature,48,3,92,202,2.2 ,,0.9 ,,30.0 ,362000,466000 ,540000,568000
+2023,5,2023-05,Kallang / Whampoa,Farrer Park Arena,Yes,Mature,48,4,477,1849,3.9 ,,2.5 ,,30.7 ,505000,642000 ,780000,798000
+2023,5,2023-05,Serangoon,Serangoon North Vista,No,Mature,42,4,201,2247,11.2 ,,9.3 ,,46.2 ,397000,496000 ,635000,830000
+2023,5,2023-05,Serangoon,Serangoon North Vista,No,Mature,42,5,129,2543,19.7 ,,13.8 ,,141.7 ,558000,658000 ,798000,855000
+2023,5,2023-05,Tengah,Plantation Verge / Parc Meadow @ Tengah,No,Non-mature,44,2,628,1486,2.4 ,1.4 ,0.1 ,4.5 ,0.5 ,125000,202000 ,,
+2023,5,2023-05,Tengah,Plantation Verge / Parc Meadow @ Tengah,No,Non-mature,44,3,170,410,2.4 ,,0.9 ,,11.2 ,238000,309000 ,405000,470000
+2023,5,2023-05,Tengah,Plantation Verge / Parc Meadow @ Tengah,No,Non-mature,44,4,1168,2000,1.7 ,,1.2 ,,11.6 ,350000,467000 ,575000,650000
+2023,5,2023-05,Tengah,Plantation Verge / Parc Meadow @ Tengah,No,Non-mature,44,5,990,2933,3.0 ,,1.8 ,,25.8 ,454000,607000 ,675000,790000
+2023,10,2023-10,Choa Chu Kang,Rail Green I / II @ CCK,No,Non-mature,44,2,397,797,2.0 ,0.9 ,0.1 ,5.6 ,0.2 ,106000,168000 ,295000,320000
+2023,10,2023-10,Choa Chu Kang,Rail Green I / II @ CCK,No,Non-mature,44,3,152,159,1.0 ,,0.5 ,,4.4 ,216000,272000 ,410000,420000
+2023,10,2023-10,Choa Chu Kang,Rail Green I / II @ CCK,No,Non-mature,44,4,802,970,1.2 ,,0.9 ,,6.9 ,319000,437000 ,515000,615000
+2023,10,2023-10,Choa Chu Kang,Rail Green I / II @ CCK,No,Non-mature,44,5,544,1336,2.5 ,,1.7 ,,16.8 ,463000,595000 ,642000,728000
+2023,10,2023-10,Tengah,Plantation Edge I / II,No,Non-mature,38,2,263,617,2.3 ,0.8 ,0.2 ,6.9 ,0.3 ,114000,183000 ,305000,370000
+2023,10,2023-10,Tengah,Plantation Edge I / II,No,Non-mature,38,3,81,154,1.9 ,,0.9 ,,7.9 ,232000,279000 ,420000,452000
+2023,10,2023-10,Tengah,Plantation Edge I / II,No,Non-mature,38,4,353,624,1.8 ,,1.1 ,,15.0 ,353000,418000 ,550000,650000
+2023,10,2023-10,Tengah,Plantation Edge I / II,No,Non-mature,38,5,313,971,3.1 ,,1.8 ,,29.7 ,460000,568000 ,669000,793000
+2023,10,2023-10,Kallang / Whampoa, Verandah @ Kallang,Yes,Mature,42,2,140,,1.5 ,1.9 ,0.1 ,,5.7 ,193000,303000 ,,
+2023,10,2023-10,Kallang / Whampoa, Verandah @ Kallang,Yes,Mature,42,3,110,,1.2 ,,0.7 ,,13.1 ,368000,475000 ,675000,833000
+2023,10,2023-10,Kallang / Whampoa, Verandah @ Kallang,Yes,Mature,42,4,893,,1.4 ,,1.1 ,,6.5 ,535000,675000 ,928000,1100000
+2023,10,2023-10,Kallang / Whampoa,Rajah Residences / Tenteram Vantage ,No,Mature,49,2,132,402,1.5 ,1.9 ,0.1 ,,5.7 ,176000,294000 ,,
+2023,10,2023-10,Kallang / Whampoa,Rajah Residences / Tenteram Vantage ,No,Mature,49,3,88,246,1.2 ,,0.7 ,,13.1 ,339000,420000 ,528888,568000
+2023,10,2023-10,Kallang / Whampoa,Rajah Residences / Tenteram Vantage ,No,Mature,49,4,1559,3466,1.4 ,,1.1 ,,6.5 ,480000,675000 ,690000,850000
+2023,10,2023-10,Queenstown,Tanglin Halt Cascadia,Yes,Mature,49,3,155,85,0.5 ,,0.2 ,,8.1 ,364000,509000 ,540000,655288
+2023,10,2023-10,Queenstown,Tanglin Halt Cascadia,Yes,Mature,49,4,818,1108,1.4 ,,0.9 ,,9.3 ,537000,702000 ,745000,938000
+2023,12,2023-12,Bukit Panjang,Petir Park Edge,No,Non-mature,48,2,143,320,2.2 ,0.8 ,0.1 ,7.3 ,0.3 ,110000,190000 ,,
+2023,12,2023-12,Bukit Panjang,Petir Park Edge,No,Non-mature,48,4,191,241,1.3 ,,0.8 ,,10.9 ,320000,426000 ,520000,570000
+2023,12,2023-12,Jurong West,Jurong Arcadia,No,Non-mature,37,2,158,275,1.7 ,0.9 ,0.3 ,5.1 ,0.3 ,110000,174000 ,310000,360000
+2023,12,2023-12,Jurong West,Jurong Arcadia,No,Non-mature,37,3,80,87,1.1 ,,0.6 ,,3.9 ,207000,277000 ,415000,450000
+2023,12,2023-12,Jurong West,Jurong Arcadia,No,Non-mature,37,4,304,176,0.6 ,,0.4 ,,4.8 ,315000,394000 ,525000,610000
+2023,12,2023-12,Jurong West,Jurong Arcadia,No,Non-mature,37,5,174,187,1.1 ,,0.5 ,,13.6 ,431000,540000 ,688888,760000
+2023,12,2023-12,Woodlands,Woodlands Beacon / Urban Rise @ Woodlands,No,Non-mature,51,2,197,1219,6.2 ,3.3 ,0.4 ,13.5 ,2.0 ,145000,231000 ,320000,370000
+2023,12,2023-12,Woodlands,Woodlands Beacon / Urban Rise @ Woodlands,No,Non-mature,51,3,176,318,1.8 ,,0.8 ,,7.4 ,251000,345000 ,415000,470000
+2023,12,2023-12,Woodlands,Woodlands Beacon / Urban Rise @ Woodlands,No,Non-mature,51,4,614,1429,2.3 ,,1.8 ,,13.3 ,318000,468000 ,530000,604588
+2023,12,2023-12,Woodlands,Woodlands Beacon / Urban Rise @ Woodlands,No,Non-mature,51,5,260,1557,6.0 ,,3.4 ,,54.2 ,468000,612000 ,620000,718000
+2023,12,2023-12,Bedok,Chai Chee Green,No,Mature,41,2,250,146,0.6 ,0.6 ,,,,80000,95000 ,,
+2023,12,2023-12,Bedok,Chai Chee Green,No,Mature,41,3,97,123,1.3 ,,0.6 ,,16.0 ,298000,360000 ,440000,556800
+2023,12,2023-12,Bedok,Chai Chee Green,No,Mature,41,4,627,522,0.8 ,,0.7 ,,3.6 ,421000,534000 ,620000,872000
+2023,12,2023-12,Bedok,Chai Chee Green,No,Mature,41,5,260,350,1.3 ,,0.8 ,,11.0 ,569000,725000 ,830000,950000
+2023,12,2023-12,Bishan,Sin Ming Residences,No,Mature,32,3,105,124,1.2 ,,0.7 ,,11.0 ,374000,473000 ,440000,511000
+2023,12,2023-12,Bishan,Sin Ming Residences,No,Mature,32,4,627,1683,2.7 ,,2.3 ,,9.9 ,519000,665000 ,618000,800000
+2023,12,2023-12,Bukit Merah,Alexandra Peaks,Yes,Mature,59,2,53,182,3.4 ,3.3 ,,,,218000,343000 ,455000,500000
+2023,12,2023-12,Bukit Merah,Alexandra Peaks,Yes,Mature,59,3,121,58,0.5 ,,0.2 ,,5.0 ,380000,512000 ,690000,763888
+2023,12,2023-12,Bukit Merah,Alexandra Peaks,Yes,Mature,59,4,730,776,1.1 ,,0.6 ,,10.6 ,533000,723000 ,920000,1088888
+2023,12,2023-12,Queenstown,Ulu Pandan Vista,Yes,Mature,59,3,218,60,0.3 ,,0.1 ,,4.3 ,430000,541000 ,655000,715000
+2023,12,2023-12,Queenstown,Ulu Pandan Vista,Yes,Mature,59,4,672,635,0.9 ,,0.4 ,,11.6 ,598000,763000 ,850000,1040000
+2024,2,2024-02,Choa Chu Kang,Rail Garden @ CCK,No,Non-mature,45,2,140,375,2.7 ,1.1 ,0.5 ,9.9 ,1.0 ,102000,155000 ,283000,325000
+2024,2,2024-02,Choa Chu Kang,Rail Garden @ CCK,No,Non-mature,45,3,101,127,1.3 ,,0.5 ,,5.4 ,202000,253000 ,402500,417000
+2024,2,2024-02,Choa Chu Kang,Rail Garden @ CCK,No,Non-mature,45,4,224,459,2.0 ,,1.2 ,,17.8 ,300000,376000 ,515000,615000
+2024,2,2024-02,Hougang,Tanjong Tree Residences,No,Non-mature,39,2,154,699,4.5 ,1.2 ,0.3 ,16.3 ,1.3 ,136000,177000 ,,
+2024,2,2024-02,Hougang,Tanjong Tree Residences,No,Non-mature,39,3,84,149,1.8 ,,0.9 ,,6.8 ,247000,294000 ,408000,438000
+2024,2,2024-02,Hougang,Tanjong Tree Residences,No,Non-mature,39,4,122,686,5.6 ,,4.6 ,,25.7 ,371000,432000 ,530000,654888
+2024,2,2024-02,Punggol,Matilda Riverside,No,Non-mature,37,2,271,647,2.4 ,1.6 ,0.0 ,4.4 ,0.4 ,131000,221000 ,325000,360000
+2024,2,2024-02,Punggol,Matilda Riverside,No,Non-mature,37,3,112,164,1.5 ,,0.7 ,,6.0 ,242000,296000 ,425000,455000
+2024,2,2024-02,Punggol,Matilda Riverside,No,Non-mature,37,4,358,725,2.0 ,,1.6 ,,10.8 ,318000,429000 ,530000,605000
+2024,2,2024-02,Punggol,Matilda Riverside,No,Non-mature,37,5,221,634,2.9 ,,1.7 ,,24.8 ,464000,582000 ,650000,745000
+2024,2,2024-02,Woodlands,Woodgrove Edge,No,Non-mature,38,2,374,649,1.7 ,1.1 ,0.2 ,3.2 ,0.4 ,119000,184000 ,320000,348000
+2024,2,2024-02,Woodlands,Woodgrove Edge,No,Non-mature,38,3,88,171,1.9 ,,1.1 ,,6.8 ,223000,278000 ,415000,470000
+2024,2,2024-02,Woodlands,Woodgrove Edge,No,Non-mature,38,4,341,713,2.1 ,,1.6 ,,11.8 ,303000,385000 ,520000,615888
+2024,2,2024-02,Woodlands,Woodgrove Edge,No,Non-mature,38,5,324,891,2.8 ,,1.8 ,,20.6 ,412000,515000 ,620000,718000
+2024,2,2024-02,Bedok,Bedok South Bloom / Bedok North Springs,No,Mature,39,2,327,481,1.5 ,2.2 ,0.1 ,,4.2 ,155000,284000 ,,
+2024,2,2024-02,Bedok,Bedok South Bloom / Bedok North Springs,No,Mature,39,4,499,1494,3.0 ,,2.2 ,,19.7 ,451000,638000 ,690000,858888
+2024,2,2024-02,Bedok,Bedok South Bloom / Bedok North Springs,No,Mature,38,5,135,715,5.3 ,,3.4 ,,73.8 ,605000,730000 ,870000,970000
+2024,2,2024-02,Queenstown,Tanglin Halt Courtyard,Yes,Mature,58,2,76,237,3.1 ,2.9 ,,,,235000,353000 ,,
+2024,2,2024-02,Queenstown,Tanglin Halt Courtyard,Yes,Mature,58,4,175,1160,6.6 ,,3.4 ,,73.8 ,565000,720000 ,848888,1000000
+2024,6,2024-06,Jurong East,Teban Breeze,No,Non-mature,54,2,297,994,3.3 ,1.9 ,0.3 ,6.4 ,0.5 ,120000,200000 ,,
+2024,6,2024-06,Jurong East,Teban Breeze,No,Non-mature,54,3,111,180,1.6 ,,0.7 ,,7.1 ,233000,306000 ,,
+2024,6,2024-06,Jurong East,Teban Breeze,No,Non-mature,54,4,444,853,1.9 ,,1.2 ,,16.2 ,345000,457000 ,570000,675000
+2024,6,2024-06,Jurong East,Teban Breeze,No,Non-mature,54,5,234,889,3.8 ,,2.0 ,,40.3 ,465000,628000 ,735888,760000
+2024,6,2024-06,Woodlands,Marsiling Peak I & II,No,Non-mature,45,2,606,1034,1.7 ,1.6 ,0.2 ,2.6 ,0.4 ,94000,189000 ,325000,360000
+2024,6,2024-06,Woodlands,Marsiling Peak I & II,No,Non-mature,45,3,181,255,1.4 ,,0.7 ,,5.3 ,207000,290000 ,435000,485000
+2024,6,2024-06,Woodlands,Marsiling Peak I & II,No,Non-mature,45,4,429,581,1.4 ,,1.0 ,,9.1 ,304000,423000 ,565000,651888
+2024,6,2024-06,Woodlands,Marsiling Peak I & II,No,Non-mature,45,5,393,406,1.0 ,,0.6 ,,10.2 ,449000,569000 ,680000,790000
+2024,6,2024-06,Yishun,Chencharu Hills,No,Non-mature,44,2,385,1576,4.1 ,3.1 ,0.4 ,7.0 ,0.9 ,113000,170000 ,,
+2024,6,2024-06,Yishun,Chencharu Hills,No,Non-mature,44,3,82,305,3.7 ,,1.7 ,,15.7 ,219000,271000 ,425000,500888
+2024,6,2024-06,Yishun,Chencharu Hills,No,Non-mature,44,4,420,1385,3.3 ,,2.1 ,,26.2 ,279000,346000 ,508000,610000
+2024,6,2024-06,Yishun,Chencharu Hills,No,Non-mature,44,5,390,1609,4.1 ,,2.5 ,,35.5 ,407000,496000 ,593000,750000
+2024,6,2024-06,Kallang Whampoa,Tanjong Rhu Riverfront I & II,Yes,Mature,51,2,570,541,0.9 ,2.0 ,0.0 ,,1.5 ,207000,378000 ,,
+2024,6,2024-06,Kallang Whampoa,Tanjong Rhu Riverfront I & II,Yes,Mature,51,3,197,390,2.0 ,,0.9 ,,24.3 ,402000,544000 ,730000,828000
+2024,6,2024-06,Kallang Whampoa,Tanjong Rhu Riverfront I & II,Yes,Mature,51,4,1296,3963,3.1 ,,2.1 ,,22.3 ,568000,779000 ,868000,1080000
+2024,6,2024-06,Queenstown,Holland Vista,Yes,Mature,57,2,114,415,3.6 ,4.0 ,0.4 ,,,209000,367000 ,,
+2024,6,2024-06,Queenstown,Holland Vista,Yes,Mature,57,4,228,2233,9.8 ,,6.6 ,,72.8 ,582000,762000 ,888000,1150000
+2024,6,2024-06,Tampines,Tampines GreenTopaz,No,Mature,37,2,173,845,4.9 ,7.8 ,0.4 ,,9.7 ,152000,238000 ,328000,388000
+2024,6,2024-06,Tampines,Tampines GreenTopaz,No,Mature,37,4,214,2288,10.7 ,,8.2 ,,61.6 ,445000,569000 ,660000,770000
+2024,6,2024-06,Tampines,Tampines GreenTopaz,No,Mature,37,5,174,2276,13.1 ,,8.5 ,,108.6 ,589000,719000 ,768000,935000
+2024,10,2024-10,Ang Mo Kio,Central Trio @ AMK,Yes,Plus,59,2,155,1581,10.2 ,6.3 ,1.0 ,26.3 ,2.4 ,187000,288000 ,,
+2024,10,2024-10,Ang Mo Kio,Central Trio @ AMK,Yes,Plus,59,4,267,1764,6.6 ,,4.1 ,,54.6 ,481000,603000 ,740000,915888
+2024,10,2024-10,Bedok,Bayshore Vista / Bayshore Palms,Yes,Plus,46,2,358,,7.0 ,3.7 ,0.3 ,19.3 ,0.7 ,190000,340000 ,,
+2024,10,2024-10,Bedok,Bayshore Vista / Bayshore Palms,Yes,Plus,46,3,80,,4.4 ,,1.3 ,,44.8 ,369000,476000 ,605000,663000
+2024,10,2024-10,Bedok,Bayshore Vista / Bayshore Palms,Yes,Plus,46,4,1006,,4.2 ,,2.7 ,,32.0 ,453000,694000 ,728000,930000
+2024,10,2024-10,Bedok,Kembangan Wave,Yes,Plus,41,2,118,,7.0 ,3.7 ,0.3 ,19.3 ,0.7 ,190000,285000 ,,
+2024,10,2024-10,Bedok,Kembangan Wave,Yes,Plus,41,4,230,,4.2 ,,2.7 ,,32.0 ,453000,592000 ,728000,930000
+2024,10,2024-10,Bukit Batok,West BrickVille @ Bukit Batok,No,Standard,24,2,130,1224,9.4 ,5.0 ,2.4 ,36.2 ,5.3 ,140000,217000 ,303000,380000
+2024,10,2024-10,Bukit Batok,West BrickVille @ Bukit Batok,No,Standard,24,3,91,331,3.6 ,,1.7 ,,15.2 ,247000,329000 ,450000,488000
+2024,10,2024-10,Bukit Batok,West BrickVille @ Bukit Batok,No,Standard,24,4,260,1155,4.4 ,,3.1 ,,29.2 ,335000,445000 ,555000,648888
+2024,10,2024-10,Bukit Batok,West BrickVille @ Bukit Batok,No,Standard,24,5,208,1287,6.2 ,,3.8 ,,54.3 ,496000,597000 ,630000,828888
+2024,10,2024-10,Geylang,Merpati Alcove,Yes,Plus,44,4,168,533,3.2 ,,2.2 ,,23.3 ,530000,647000 ,878000,1080000
+2024,10,2024-10,Jurong West,Taman Jurong Skyline,No,Standard,52,2,546,589,1.1 ,0.8 ,0.0 ,1.7 ,0.2 ,109000,194000 ,305000,355000
+2024,10,2024-10,Jurong West,Taman Jurong Skyline,No,Standard,52,3,117,147,1.3 ,,0.6 ,,5.4 ,209000,306000 ,450000,480000
+2024,10,2024-10,Jurong West,Taman Jurong Skyline,No,Standard,52,4,610,461,0.8 ,,0.4 ,,7.5 ,290000,434000 ,563000,680000
+2024,10,2024-10,Jurong West,Taman Jurong Skyline,No,Standard,52,5,571,518,0.9 ,,0.4 ,,11.3 ,427000,598000 ,680000,712888
+2024,10,2024-10,Kallang Whampoa,Towner Breeze,Yes,Plus,48,2,139,987,7.1 ,2.4 ,1.0 ,29.5 ,1.0 ,216000,328000 ,,
+2024,10,2024-10,Kallang Whampoa,Towner Breeze,Yes,Plus,48,4,216,,4.4 ,,2.8 ,,35.5 ,522000,727000 ,955000,1170000
+2024,10,2024-10,Kallang Whampoa,Kallang View,Yes,Plus,43,3,68,,2.2 ,,0.9 ,,27.7 ,388000,497000 ,780000,820000
+2024,10,2024-10,Kallang Whampoa,Kallang View,Yes,Plus,43,4,203,,4.4 ,,2.8 ,,35.5 ,539000,698000 ,868000,1200000
+2024,10,2024-10,Kallang Whampoa,Crawford Heights,Yes,Prime,50,3,78,,2.2 ,,0.9 ,,27.7 ,390000,523000 ,,
+2024,10,2024-10,Kallang Whampoa,Crawford Heights,Yes,Prime,50,4,234,,4.4 ,,2.8 ,,35.5 ,568000,759000 ,890000,938000
+2024,10,2024-10,Pasir Ris,Costa Riveria I & II,No,Standard,38,2,142,1375,9.7 ,5.9 ,0.9 ,28.4 ,2.0 ,194000,288000 ,388000,430000
+2024,10,2024-10,Pasir Ris,Costa Riveria I & II,No,Standard,38,3,86,509,5.9 ,,2.4 ,,27.6 ,329000,411000 ,525000,540888
+2024,10,2024-10,Pasir Ris,Costa Riveria I & II,No,Standard,38,4,394,1974,5.0 ,,3.6 ,,32.9 ,481000,595000 ,612000,745000
+2024,10,2024-10,Pasir Ris,Costa Riveria I & II,No,Standard,38,5,145,1897,13.1 ,,6.7 ,,138.0 ,635000,736000 ,825000,843000
+2024,10,2024-10,Sengkang,Fernvale Oasis / Fernvale Sails,No,Standard,30,2,314,1797,5.7 ,3.8 ,0.9 ,13.4 ,1.7 ,126000,240000 ,,
+2024,10,2024-10,Sengkang,Fernvale Oasis / Fernvale Sails,No,Standard,30,3,88,518,5.9 ,,2.9 ,,23.2 ,277000,370000 ,440000,515000
+2024,10,2024-10,Sengkang,Fernvale Oasis / Fernvale Sails,No,Standard,30,4,563,1848,3.3 ,,2.4 ,,19.3 ,324000,474000 ,526000,668000
+2024,10,2024-10,Sengkang,Fernvale Oasis / Fernvale Sails,No,Standard,30,5,431,1606,3.7 ,,2.3 ,,30.6 ,465000,640000 ,640000,790000
+2024,10,2024-10,Woodlands,Marsiling Ridge,No,Standard,43,4,162,725,4.5 ,,2.8 ,,36.0 ,329000,457000 ,560000,696000
+2024,10,2024-10,Woodlands,Marsiling Ridge,No,Standard,43,5,130,612,4.7 ,,3.0 ,,40.7 ,488000,616000 ,680000,826000
+2025,2,2025-02,Kallang / Whampoa,Tanjong Rhu Parc Front,Yes,Prime,48,2,261,1516,5.8 ,3.1 ,0.2 ,11.7 ,0.2 ,211000,364000 ,,
+2025,2,2025-02,Kallang / Whampoa,Tanjong Rhu Parc Front,Yes,Prime,48,3,87,228,2.6 ,,1.0 ,,36.5 ,399000,519000 ,760000,838000
+2025,2,2025-02,Kallang / Whampoa,Tanjong Rhu Parc Front,Yes,Prime,48,4,464,2488,5.4 ,,3.5 ,,41.4 ,548000,727000 ,960000,1050000
+2025,2,2025-02,Queenstown,Stirling Horizon,Yes,Plus,55,2,459,986,2.1 ,1.4 ,0.1 ,4.1 ,0.1 ,224000,365000 ,,
+2025,2,2025-02,Queenstown,Stirling Horizon,Yes,Plus,55,3,81,96,1.2 ,,0.5 ,,14.5 ,408000,529000 ,600000,720000
+2025,2,2025-02,Queenstown,Stirling Horizon,Yes,Plus,55,4,586,1489,2.5 ,,1.7 ,,18.1 ,554000,749000 ,891000,1050000
+2025,2,2025-02,Woodlands,Woodlands North Verge,No,Standard,48,2,335,652,1.9 ,1.4 ,0.0 ,3.5 ,0.4 ,140000,251000 ,368000,408000
+2025,2,2025-02,Woodlands,Woodlands North Verge,No,Standard,48,3,85,162,1.9 ,,0.9 ,,8.1 ,275000,363000 ,500000,530000
+2025,2,2025-02,Woodlands,Woodlands North Verge,No,Standard,48,4,608,802,1.3 ,,0.9 ,,9.6 ,365000,528000 ,615888,728888
+2025,2,2025-02,Woodlands,Woodlands North Verge,No,Standard,48,5,535,815,1.5 ,,0.9 ,,14.2 ,486000,661000 ,710000,790000
+2025,2,2025-02,Yishun,Chencharu Green / Chencharu Vines,No,Standard,38,2,356,875,2.5 ,1.5 ,0.2 ,5.5 ,0.8 ,108000,181000 ,,
+2025,2,2025-02,Yishun,Chencharu Green / Chencharu Vines,No,Standard,38,3,90,244,2.7 ,,1.3 ,,11.2 ,245000,295000 ,470000,515888
+2025,2,2025-02,Yishun,Chencharu Green / Chencharu Vines,No,Standard,38,4,576,977,1.7 ,,1.0 ,,14.7 ,316000,395000 ,560000,638000
+2025,2,2025-02,Yishun,Chencharu Green / Chencharu Vines,No,Standard,38,5,509,1101,2.2 ,,1.3 ,,19.2 ,447000,533000 ,705000,760000
